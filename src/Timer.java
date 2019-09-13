@@ -1,3 +1,4 @@
+//https://www.itu.dk/people/sestoft/papers/benchmarking.pdf
 public class Timer {
 
     private long start, spent = 0;
